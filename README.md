@@ -33,7 +33,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&height="70")&nbsp;
 
-<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python height="55"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="55">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
