@@ -11,6 +11,6 @@
 
 [![Maxim's github stats](https://github-readme-stats.vercel.app/api?username=mtgrigg&theme=vision-friendly-dark&show_icons=true)](https://github.com/mtgrigg/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtgrigg&langs_count=8&theme=vision-friendly-dark&show_icons=true)](https://github.com/mtgrigg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=vision-friendly-dark&show_icons=true)](https://github.com/mtgrigg/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/mtgrigg/github-readme-stats)
