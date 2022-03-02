@@ -18,6 +18,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtgrigg&langs_count=8&theme=vision-friendly-dark&show_icons=true)](https://github.com/mtgrigg/github-readme-stats)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtgrigg&show_icons=true&locale=en"
+    alt="mtgrigg" /></p>
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/mtgrigg/github-readme-stats) -->
 
 ## Languages and tools
