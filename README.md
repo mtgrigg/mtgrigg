@@ -18,6 +18,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtgrigg&langs_count=8&theme=vision-friendly-dark&show_icons=true)](https://github.com/mtgrigg/github-readme-stats)
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/mtgrigg/github-readme-stats) -->
