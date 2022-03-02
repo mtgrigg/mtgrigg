@@ -31,7 +31,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/mtgrigg/github-readme-stats) -->
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&?logoWidth=40)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&height="70")&nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
