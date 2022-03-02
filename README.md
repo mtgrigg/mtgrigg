@@ -18,17 +18,17 @@
   
 <br>
 
-[![Maxim's github stats](https://github-readme-stats.vercel.app/api?username=mtgrigg&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/mtgrigg/github-readme-stats)
+[![Maxim's github stats](https://github-readme-stats.vercel.app/api?username=mtgrigg&theme=github_dark&show_icons=true)](https://github.com/mtgrigg/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtgrigg&langs_count=8&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/mtgrigg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtgrigg&langs_count=8&theme=github_dark&show_icons=true)](https://github.com/mtgrigg/github-readme-stats)
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mtgrigg&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545" alt="mtgrigg" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mtgrigg&theme=github_dark&show_icons=true" alt="mtgrigg" /></p>
 
 </br>
 
-![Maxim's Activity Graph](https://activity-graph.herokuapp.com/graph?username=mtgrigg&custom_title=Maxim's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![Maxim's Activity Graph](https://activity-graph.herokuapp.com/graph?username=mtgrigg&custom_title=Maxim's%20Contribution%20Graph&theme=github_dark&show_icons=true)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/mtgrigg/github-readme-stats) -->
 
