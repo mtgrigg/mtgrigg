@@ -8,7 +8,7 @@
 ##### 🌱 I’m currently upgrading my data structures and algorithms skills.
 ##### 🧙‍♂️ Graduated from UC Berkeley with a degreee in philosophy.
 ##### 📫 How to reach me:
-<a href="https://www.linkedin.com/in/maxim-grigg-42a4451a9/" target="blank"><img align="center"
+<a href="https://www.linkedin.com/in/maxim-grigg/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="maximGrigg" height="30" width="40" /></a>
 ##### ⚡ Fun fact: The universe is a big place.
