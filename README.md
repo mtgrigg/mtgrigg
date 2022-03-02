@@ -23,7 +23,7 @@
 
 <br></br>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mtgrigg&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545" alt="mtgrigg" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mtgrigg&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545" alt="mtgrigg" /></p>
 
 
 
