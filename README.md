@@ -24,7 +24,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mtgrigg&theme=highcontrast" alt="mtgrigg" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mtgrigg&theme=blue-green" alt="mtgrigg" /></p>
 
 
 </br>
