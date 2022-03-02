@@ -1,6 +1,7 @@
 ### About me
 <h1 align="center">Hi! I am Maxim Grigg</h1>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
 - 🔭 I’m currently working on adding new feautures to philosophyHQ.
@@ -11,7 +12,7 @@
       alt="maximGrigg" height="30" width="40" /></a>
 - ⚡ Fun fact: The universe is a big place.
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 
   
 
