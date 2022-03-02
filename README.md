@@ -4,14 +4,14 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-## 🔭 I’m currently working on adding new feautures to philosophyHQ.
-## 🌱 I’m currently upgrading my data structures and algorithms skills.
-## 🧙‍♂️ Graduated from UC Berkeley with a degreee in philosophy.
-## 📫 How to reach me: 
+##### 🔭 I’m currently working on adding new feautures to philosophyHQ.
+##### 🌱 I’m currently upgrading my data structures and algorithms skills.
+##### 🧙‍♂️ Graduated from UC Berkeley with a degreee in philosophy.
+##### 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/maxim-grigg-42a4451a9/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="maximGrigg" height="30" width="40" /></a>
-## ⚡ Fun fact: The universe is a big place.
+##### ⚡ Fun fact: The universe is a big place.
 
 
 
