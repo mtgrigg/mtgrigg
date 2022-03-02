@@ -21,6 +21,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtgrigg&langs_count=8&theme=vision-friendly-dark&show_icons=true)](https://github.com/mtgrigg/github-readme-stats)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtgrigg&theme=vision-friendly-dark&show_icons=true" alt="mtgrigg" /></p>
+
 
 
 
