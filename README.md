@@ -25,11 +25,11 @@
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mtgrigg&theme=github_dark&show_icons=true" alt="mtgrigg" /></p>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mtgrigg&theme=github_dark&show_icons=true)
+
 
 </br>
 
-![Maxim's Activity Graph](https://activity-graph.herokuapp.com/graph?username=mtgrigg&custom_title=Maxim's%20Contribution%20Graph&theme=github_dark&show_icons=true)
+![Maxim's Activity Graph](https://activity-graph.herokuapp.com/graph?username=mtgrigg&custom_title=Maxim's%20Contribution%20Graph&theme=react-dark)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/mtgrigg/github-readme-stats) -->
 
