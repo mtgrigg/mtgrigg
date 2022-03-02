@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Maxim's github stats](https://github-readme-stats.vercel.app/api?username=mtgrigg)](https://github.com/mtgrigg/github-readme-stats)
+[![Maxim's github stats](https://github-readme-stats.vercel.app/api?username=mtgrigg&theme=dark&show_icons=true)](https://github.com/mtgrigg/github-readme-stats)
 
 
 <!--
