@@ -6,7 +6,7 @@
 
 ##### 🔭 I’m currently working on adding new feautures to philosophyHQ.
 ##### 🌱 I’m currently upgrading my data structures and algorithms skills.
-##### 🧙‍♂️ Graduated from UC Berkeley with a degreee in philosophy.
+##### 🧙‍♂️ Recently graduated from UC Berkeley.
 ##### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/maxim-grigg/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
