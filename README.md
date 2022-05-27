@@ -3,18 +3,6 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-
-##### 🔭 I’m currently working on adding new feautures to philosophyHQ.
-##### 🌱 I’m currently upgrading my data structures and algorithms skills.
-##### 🧙‍♂️ Recently graduated from UC Berkeley.
-##### 📫 How to reach me:
-<a href="https://www.linkedin.com/in/maxim-grigg/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="maximGrigg" height="30" width="40" /></a>
-
-
-
-
   
 <br>
 
