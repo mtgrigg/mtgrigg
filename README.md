@@ -2,6 +2,7 @@
 
 <p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
+<br>
   ![Maxim's Activity Graph](https://activity-graph.herokuapp.com/graph?username=mtgrigg&custom_title=Maxim's%20Contribution%20Graph&theme=react-dark)
 
 <br>
