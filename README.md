@@ -2,10 +2,10 @@
 
 <p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-  
+  ![Maxim's Activity Graph](https://activity-graph.herokuapp.com/graph?username=mtgrigg&custom_title=Maxim's%20Contribution%20Graph&theme=react-dark)
+
 <br>
 
-[![Maxim's github stats](https://github-readme-stats.vercel.app/api?username=mtgrigg&theme=github_dark&show_icons=true)](https://github.com/mtgrigg/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtgrigg&langs_count=8&theme=github_dark&show_icons=true)](https://github.com/mtgrigg/github-readme-stats)
 
