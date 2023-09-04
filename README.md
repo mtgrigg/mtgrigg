@@ -6,7 +6,6 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtgrigg&langs_count=8&theme=github_dark&show_icons=true)](https://github.com/mtgrigg/github-readme-stats)
 
 
 
@@ -15,7 +14,6 @@
 
 </br>
 
-![Maxim's Activity Graph](https://activity-graph.herokuapp.com/graph?username=mtgrigg&custom_title=Maxim's%20Contribution%20Graph&theme=react-dark)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/mtgrigg/github-readme-stats) -->
 
